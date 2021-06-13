@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D93F73EE-675F-E38E-CE1A-D856BE651D8F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Change2.cs">
+    <Files>
+      <File FileName="Assets/Ememy.cs" Line="71" Column="1" />
+      <File FileName="Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/TargetScript.cs" Line="65" Column="1" />
+      <File FileName="Assets/Coin.cs" Line="36" Column="1" />
+      <File FileName="Assets/Door.cs" Line="23" Column="6" />
+      <File FileName="Assets/Score.cs" Line="26" Column="9" />
+      <File FileName="Assets/Change.cs" Line="4" Column="1" />
+      <File FileName="Assets/Change2.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flab Team5" expanded="True">
+            <Node name="Assets" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9ea7e46-7f2c-4b08-9bd0-4b3f43e2286b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
